@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin1234",
+      "name": "Admin",
+      "role": "Author"
+    },
+    {
+      "id": "2",
+      "email": "guest@gmail.com",
+      "password": "guest1234",
+      "name": "Guest",
+      "role": "visitor"
+    },
+    {
+      "id": "6f83",
+      "email": "rohan@gmail.com",
+      "password": "rohan123",
+      "name": "rohan",
+      "role": "Visitor"
+    },
+    {
+      "id": "b86e",
+      "email": "rohanpatil7972@gmail.com",
+      "password": "1234",
+      "name": "neha",
+      "role": "Visitor"
+    },
+    {
+      "id": "d3a5",
+      "email": "rohanpatil7972@gmail.com",
+      "password": "1234",
+      "name": "rama",
+      "role": "Visitor"
+    },
+    {
+      "id": "a4cb",
+      "email": "rohanpatil7972@gmail.com",
+      "password": "1234",
+      "name": "rama",
+      "role": "Visitor",
+      "accessToken": "2xf74eK07HfnGyCm"
+    },
+    {
+      "id": "cb62",
+      "email": "rohanpatil7972@gmail.com",
+      "password": "1234",
+      "name": "rama",
+      "role": "Visitor",
+      "accessToken": "Vyxb4fxqYkQ3GcyF"
+    }
+  ]
+}
